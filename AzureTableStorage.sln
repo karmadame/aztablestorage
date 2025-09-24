@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureTableStorageBenchmark", "AzureTableStorageBenchmark\AzureTableStorageBenchmark.csproj", "{AF139F75-4A05-42A9-AB82-C3BCF6A84E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureTableStorageApi", "AzureTableStorageApi\AzureTableStorageApi.csproj", "{AB521E2C-0143-437B-A460-162AC8633B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstractions", "Abstractions\Abstractions.csproj", "{5A99CD8E-93AD-44BE-8CC3-D4F1E88C8BF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF139F75-4A05-42A9-AB82-C3BCF6A84E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF139F75-4A05-42A9-AB82-C3BCF6A84E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF139F75-4A05-42A9-AB82-C3BCF6A84E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF139F75-4A05-42A9-AB82-C3BCF6A84E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB521E2C-0143-437B-A460-162AC8633B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB521E2C-0143-437B-A460-162AC8633B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB521E2C-0143-437B-A460-162AC8633B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB521E2C-0143-437B-A460-162AC8633B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A99CD8E-93AD-44BE-8CC3-D4F1E88C8BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A99CD8E-93AD-44BE-8CC3-D4F1E88C8BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A99CD8E-93AD-44BE-8CC3-D4F1E88C8BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A99CD8E-93AD-44BE-8CC3-D4F1E88C8BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
